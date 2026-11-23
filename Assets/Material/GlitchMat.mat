@@ -108,7 +108,7 @@ Material:
     - _ChromaticAberration: 0.035
     - _ClearCoatMask: 0
     - _ClearCoatSmoothness: 0
-    - _ConstantGlitch: 0
+    - _ConstantGlitch: 0.182
     - _Cull: 2
     - _Cutoff: 0.5
     - _CutoutStrength: 0.65
@@ -120,7 +120,7 @@ Material:
     - _EmissionIntensity: 1.2
     - _EnvironmentReflections: 1
     - _GlitchIntensity: 1
-    - _GlitchSpeed: 14
+    - _GlitchSpeed: 26.4
     - _GlossMapScale: 0
     - _Glossiness: 0
     - _GlossyReflections: 0
@@ -143,7 +143,7 @@ Material:
     - _XRMotionVectorsPass: 1
     - _ZWrite: 1
     m_Colors:
-    - _BaseColor: {r: 1, g: 1, b: 1, a: 0.3764706}
+    - _BaseColor: {r: 0.93014455, g: 0.6622641, b: 1, a: 0.3764706}
     - _Color: {r: 1, g: 1, b: 1, a: 1}
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
     - _GlitchColorAccent: {r: 2.8, g: 0.75, b: 0.55, a: 1}
